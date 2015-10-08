@@ -1,2 +1,2 @@
 # MK00
-plugin addons
+plugin addon
